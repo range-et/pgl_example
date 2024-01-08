@@ -1,0 +1,23 @@
+{
+  "name": "pgl_test",
+  "version": "1.0.0",
+  "description": "A boilerplate test for the plebian graph library",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [
+    "Network",
+    "Graphs",
+    "Webgl",
+    "Visualization"
+  ],
+  "author": "Indrajeet Haldar",
+  "license": "MIT",
+  "dependencies": {
+    "plebiangraphlibrary": "^1.0.3"
+  },
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}

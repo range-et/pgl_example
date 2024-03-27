@@ -1,4 +1,4 @@
-import * as PGL from 'plebiangraphlibrary';
+import * as PGL from 'plebeiangraphlibrary';
 
 async function createVisualization() {
     // Assuming LoadZKCSimulated and other methods are available in your library
